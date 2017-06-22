@@ -4,3 +4,4 @@ stemwords
 .deps
 .libs
 *.lo
+.dirstamp
